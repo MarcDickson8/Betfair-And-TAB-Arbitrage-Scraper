@@ -1,6 +1,4 @@
 # Betfair-And-TAB-Arbitrage-Scraper
-This C# program searches for arbitrage opportunities between Betfair and TAB Horse Racing using selenium for web scraping and Pushover API for mobile phone notifications.
-
 
 This project is a sophisticated automated web scraping bot designed to identify and report arbitrage opportunities in horse racing markets. It continuously monitors two major betting websites, **Betfair Australia** and **TAB Australia**, comparing their odds to find profitable scenarios.
 
